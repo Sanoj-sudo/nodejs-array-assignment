@@ -1,3 +1,4 @@
+
 const getIndexLengths = (parameter) =>{
     const storeLengths = [];
     for (let index = 0; index <parameter.length; index++){
